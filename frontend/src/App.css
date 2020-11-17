@@ -1,0 +1,46 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  padding-top: 20px;
+}
+
+.adjust-card {
+  padding-bottom: 2px;
+}
+
+.adjust-form2 {
+  padding: 5px 5px 5px 5px;
+  color: blue;
+}
+
+.shift {
+  padding-top: 3px;
+  position: absolute;
+  right: 70px;
+  font-size: 1.2em;
+}
+
+.shift2 {
+  position: absolute;
+  right: 180px;
+  font-size: 1.5em;
+  color: lightcoral;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+}
+
+
+hr.new1 {
+  border-top: 1px dashed grey;
+}
+
+.crossed-line {
+  text-decoration: line-through;
+  color: grey;
+}
